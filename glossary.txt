@@ -1,0 +1,88 @@
+Before reading this, please know that although many players (including me) highly dislike FreeJam's constant cycling of
+developers and designers, their constant recycling of Robocraft and their many "dumbing down" changes of Robocraft, we
+still acknowledge it to be the leading example and best execution of the genre. It has made our teenage years the most
+fun aside of Minecraft and Team Fortress 2.
+
+Many examples have come into this genre and have all made the same mistake of not trying out other games in the genre
+and thus repeating the same mistake where the game gets stale really quickly and combat is both too fast and too slow.
+It is an interesting but difficult genre to master as you have to account for infinite player creation yet also somehow
+still offer some reason to do that infinite creation and to outshow that infinite creation with something like excellent
+combat. Usually people forgetthat there needs to be a real reason to keep replaying it aside of an endless grind, it
+needs to be fun and exciting.
+
+=====
+
+> blink
+A module in RC that allowed you to teleport.
+
+> bot
+A vehicle built by a player or an AI driven vehicle. Very confusing indeed, but to distinguish them we will use
+"bot player" for the AI units.
+
+> Chapter 3
+Around the middle of RC's lifetime, a few updates were proposed. They were multiple "chapters", but one of them was
+highly disliked. This was Chapter 3, with it's idea to change health from per cube to a per bot to indestructable
+movement parts, weapons and a generated skeleton inside the bot and a big health bar for the health. This would
+basically remove all redundancy to parts and make the already (by their nature) overpowered air units impossible to take
+down. This idea came from the complaint that many children didn't know how to make a plane (often only using the wings
+and never adding the rudders) and their shitty builds collapsing in on themselves after just a few shots. This would
+have made players focus on spamming their parts to still come out on top of other builds as health would have less of an
+impact compared to movement stats. This would have ruined the game in an instant. Luckily it was deflected after
+mountains of complaints but FJ would later normalize the HP of cubes, made carrying capacity useless and simplified the
+speed stats, so people would still end up using bots made of spammed parts. It just took 3 years instead of 3 months to
+go degenerate.
+
+> CRF
+- TODO
+
+> drone
+- TODO
+
+- DSM
+Disc Shield Module, a module used to add a static shield in front of your cursor.
+
+> FJ
+FreeJam, the creator of Robocraft.
+
+> heavy bomber
+A heavily reinforced and armored plane, though more often in a sideways H shape than a triangle. Some so heavy they need
+to use blink to get up high.
+
+> HP
+health points
+
+> interceptor
+An SMG plane.
+
+> Laser
+Refer to SMG.
+
+> meta
+- TODO
+
+> module
+A 3x3x3 part of high CPU cost that gives you a rechargeable ability such as teleporting, shield generation or energy
+regaining. It originally used to be just the re-textured mega seat.
+
+> RC
+Robocraft, the best entry (sadly) in the voxel vehicle builder shooter genre.
+
+> RC1
+Refer to RC.
+
+> RC2
+Refer to Robocraft 2.
+
+> robot
+Refer to bot.
+
+> SMG
+SubMachine Gun, later changed to Laser, is a weapon example that denotes a simple gun to fire quick travelling, medium-long range
+rounds of glowing energy. Your basic standard weapon, which often has the downside of low damage per shot and overheating or lower
+accuracy over time.
+
+> spotting
+- TODO
+
+> Windowmaker
+A module that spotted every player on the map.
