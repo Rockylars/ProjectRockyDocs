@@ -10,5 +10,5 @@ to know or will be kept because they are uniquely made for our project.
 I do not want to end up going open source on this after all, it is not smart to allow everyone to just copy paste the project into a new roboclone.
 
 A lot of the time you will encounter negative thoughts and revisions, this happens naturally, though it is also me that is to blame here.
-Most of this is written 5 years after we first started (December 2017), so some has been lost, but I still have a lot of the old releases and even found an old version of the connection point code on one of my PCs.
+Most of this is written 6 years after we first started (December 2017), so some has been lost, but I still have a lot of the old releases and even found an old version of the connection point code on one of my PCs.
 I will have to write the first design of weapons from memory, so yeah, expect the old stuff to have some holes.
