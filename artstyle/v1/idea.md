@@ -5,3 +5,4 @@ Instead of feeling a disconnect where the cubes are too fantasy for the gritty w
 Since the cubes were only a small start, we will include that here and move onto v2 with the further story.
 For weapons, we had no idea yet, for maps, we slowly started going into more low poly stuff, but again, that'll come in v2.
 The building bay was this holo chamber, which was later replaced by a space environment.
+We had some highly detailed stuff at first, but that also slowly transitioned to low poly.
