@@ -12,5 +12,3 @@ It did honestly add flair and spice for those who needed it, such as plasma bomb
 
 The main problem with them was how people could now escape far quicker and regenerate or it would become an endless shield placing battle.
 In the end, I'd say they added what was needed to make the game a more enjoyable experience rather than a stale game only autistic people like us would love to play for hours at a time.
-
-TODO: Add pictures.

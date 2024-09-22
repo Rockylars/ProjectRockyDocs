@@ -3,27 +3,27 @@ I like the abilities as partial powerups, not things you have to use while in ba
 
 in RC, its either a getaway or invincibility, here I want them as a temporary boost in:
 - health = barebones
-- - An ability that regenerates a big part of your structure back up of your bot and those around you, but only for 1 HP each.
-- - Its to get part of your structure back up without having the old RC auto-regen problem and without punishing medics.
+  - An ability that regenerates a big part of your structure back up of your bot and those around you, but only for 1 HP each.
+  - Its to get part of your structure back up without having the old RC auto-regen problem and without punishing medics.
 
 - speed = overdrive
 
 - defense = shield
 
 - energy = restore
-- - Like the energy module in RC
+  - Like the energy module in RC
 
 - stealth = invisibility
 
 - evasion = teleport
 
 - push = EMP
-- - In RC this used to be a beacon that would come down after a big area warning.
-- - In RC the problem with this was that it often missed and when it did hit, it was due to your teammates blocking you.
-- - It also was never fun due to being a stunlock.
+  - In RC this used to be a beacon that would come down after a big area warning.
+  - In RC the problem with this was that it often missed and when it did hit, it was due to your teammates blocking you.
+  - It also was never fun due to being a stunlock.
 
 - coordination = radar
-- - Marking a player for everyone even when nobody is nearby, similar to the awfully named Windowmaker module in RC.
+  - Marking a player for everyone even when nobody is nearby, similar to the awfully named Windowmaker module in RC.
 
 -----
 - These will basically be tertiary weapons, they charge up when your energy bar is fully complete (so when not firing and your energy bar has filled), but will be drained when the reactor is hit and you've already lost all energy.
