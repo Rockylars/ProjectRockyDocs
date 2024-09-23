@@ -33,3 +33,9 @@ Even sometimes the idea of it bringing all good could be a bad thing because it 
 
 You should also not use my previously stated exception for any other reason of punishment, if it doesn't fit your view by you saying "we can't enjoy the game when there's people like this", then stop immediately.
 Let people be stupid, but prevent the absurdest of stupid and ONLY that.
+
+-----
+
+Oh on the topic of chat moderation, taking Steam's solution of letting the user choose a censoring approach is simply the best.
+It combines the helpfulness of making it less spammy funny moment and allows freedom for those who simply don't care (like me).
+RC's main chat and battle chat were either spammy or unused, even voice chat was just never used at all.
