@@ -1,0 +1,115 @@
+Opinions of Muffin from Discord
+
+-- 3D | No space aspects
+> Airmen - Airship FPV game, simplistic cartoony graphics
+> Robocrash - No website, precursor to airmen? Posted on robocraft reddit
+> Astracraft - Mobile robocraft clone? Unity default look
+> Banjo-Kazooie: Nuts & Bolts - Ancient? vehicle construction game, retro-cartoony
+> Besiege - Medieval siege engine puzzle game, mostly non-combat; stylised painted look
+> Blocky Cars Online - mobile game, pixelated graphics
+> Bot Brawl - Robocraft clone by a 2 men team, unity jank look
+> Brick Rigs - seemingly involved vehicle creation sim game, 'BeamNG'
+> Carbon6 - seemingly abandoned unity vehicular combat voxel game
+> Constroy - aka Axiomata, couldnt find any traces
+> CrossOut - madmaxish vehicular combat game
+> Dieselpunk Wars - abandoned land/water/air vehicle building game with decent stylised look
+> Diode Arena - vehicular arena combat, last update on 04/2023, still unreleased and in slow development
+> D.R.O.N.E. - abandoned futuristic drone (as in quadcopter) vehicular fpv shooter (drones are fully buildable ofc)
+> GameCraft <- Robocraft X - Robocraft dev's to-be-released survival? cartoonish fpv puzzlegame?
+> Instruments of Destruction - level-based destruction game with buildable demolition vehicles, 'realistic' graphics
+> Lego Racers (1/2) - lego racing game with buildable vehicles, seemingly web-based
+> MachineCraft - weird somewhat primitive machine-making game with some combat capabilities, very simple graphics
+> Planet Explorers - open-world survival game that envolves buildable structures and vehicles; primitive realism-oriented graphics
+> Plasma | Your Engineering Playground - abandoned f2p cartoonish robot creation game with programmability in mind
+> Procelio - small team making their own arena vehicular combat game, replacement for robocraft; slow, hobby development, stylised-ish unity graphics
+> Project Kekoraptor - abandoned robocraft-esque hobby-project game from 7 years ago
+> Project Prime - no trace
+> Qbotics (predecessor to Robocraft) - no trace
+> Robocraft - remade so many times its lost most players, unity graphics
+> Robocraft 2 - Robocraft sequel flop afaik, unity graphics
+> TechBlox - Abandoned Robocraft dev's racing game from 2 years ago, meh unity graphics
+> Robocraft Infinity (xbox only) - Robocraft on xbox, what else to say
+> Rover Rage - mobile robocraft
+> Rogue Waves - water-based vehicle creation game, 10$ EA w/ no players, decentish unity graphics
+> Scrap Mechanic - cartoonish survival/creative game focused on creating of contraptions with 0 vehicle combat
+> Scraps - unavailable Primitive unity graphics robocraft clone
+> SteamCraft - unavailable multiplayer vehicular combat game, decent unity graphics; literally dead developer
+> StormWorks - storm resque game with buildable air/land/water vehicles
+> TerraTech - open-world sandbox survival game, coop/vs multiplayer; cartoony graphics, a bit goofy
+> TerraTech Worlds - same as terratech but improved a bit in every aspect
+> The Last Leviathan - unavailable water/air medieval building game with potential but never fixed; painted unity graphics
+> Trailmakers - open-world sandbox, everything from exploration to races to combat pvp/coop space/air/lang/water, riddled in dlcs; stylised graphics
+> War Builder League - abandoned 5 years ago Robocraft clone 
+
+-- 3D | Planetary and space focused
+> Dual Universe - dead and buggy af survival game with good flight and ship building, but meh otherwise
+> Empyrion - planet/space survival game with buildable spaceships; some say worse space engineers 
+> From the Depths - voxel space/air/land/sea vehicle building game with story mods; RTS+RPG elements
+> Planet Nomads - unavailable basebuilding and spaceship game
+> Space Engineers - survival base/spaceship building game, actively developed and seeming quite good, 'realistic' graphics
+> Starbase - abandoned game that looks like space engineers clone
+> StarMade - another abandoned game that looks like space engineers clone
+> Starship EVO - space exploration game with base and spaceship building mechanics, cartoonish graphics
+
+-- 3D | Spaceship only
+> Avorion - coop spaceship sandbox, EVE-esque
+> Galactic Junk League - abandoned 'crossout but its spaceships', was a great game
+> Rift Frigate - Unavailable (but 'coming soon' at the same time?) spaceship shooter
+
+-- 2D | Top-down view | Spaceship only
+> Captain Forever Series - (main gmae) pve/pvp game
+> Cosmoteer - involved pve/pvp spaceship creation and combat game 
+> Istrolid - combat-focused spaceship/drone construction game
+> Nimbatus - procedural planet-mining game with techtrees and spaceship creation
+> Space Arena: Construct and Fight! - Mobile but good (no mtx) space combat game
+> Starship Constructor - cosmoteer but with worse reviews; dead-ish
+
+-- 2D | Side view | No space aspects
+> Airships: Conquer the Skies - involved steampunk politics+airship construction game
+> Bad Piggies - mobile angry-birds spinoff puzzle game
+> Dream Car Racing (1/2/EVO) - web game, hill climb racing but its editable;
+> Rovercraft (1/2) - mobile hill climb racing but its editable vehicle, kinda like bad piggied, mtx
+> Steamlands - web game by nitrome, good siege tower steampunk essentially
+
+_____________________________________________________________________________________________________________________________
+
+->- Same as the above but without the cube grid, building is just done in a in a non-unit grid like through pipes and plates.
+
+-- 3D | No space aspects
+> Automation - The Car Company Tycoon Game - actual car manufacturing game
+> Dream Car Building (seems to just be a port of "Dream Car Racing 3D")
+> Dream Car Racing 3D - simulationist(ish?) BeamNG-esque vehicle builder with meh graphics
+> Homebrew - Patent Unknown - abandoned land/air building game with meh graphics
+> Main Assembly - abandoned programmable robot creation (from cars to fliers to boats and spiders)
+> M.A.V. - Modular Assault Vehicle - shooter game with editable (not sure if buildable) mechs, looks meh tho
+> REM (the REM project) - rust-ish? survival game with vechicle modifiaction it seems
+> Robot Arena (1/2/3) - RA1 and 2 seem decent for their age and playable in web, RA3 is mostly negative on steam, looks bad, seems too few parts, etc
+> Screw Drivers - more involved scrap mechanic but with proper gears and no survival mechanics
+
+-- 2D | Top-down view | Spaceship only
+> Reassembly - 'universe simulation' faction-based spaceship-building game
+> Gimbal - abandoned multiplayer shooter with buildable spaceships
+
+
+-- 2D | Side view | No space aspects
+> IncrediBots (1/2/3) - meh flash game
+
+_____________________________________________________________________________________________________________________________
+
+->- Shares one or two aspects but misses crucial sections, such as building, weaponry or the cubic theme, usually the building part:
+
+> Bubble Tanks (1/2/3/Arenas)
+> BeamNG.drive - simulationist racing gmae
+> Dreadnought - unavailable 'world of tanks but spaceships'
+> Garry's Mod - sandbox 'do whatever' game with vehicles in it, and possibility to make jank vehicles yourself
+> Gear Up - dead but not bad vehicle combat game with customisation
+> Kerbal Space Program - play as NASA except you dont know what you are doing, has career mode
+> KEO - dead vehicle combat game where cars can swap out some parts, looks good
+> Mech Warriors - 'world of tanks' of mech combat games 
+> Stellar Overload < Planets³ - doesnt exist 
+> Robocraft Royale - steam page doesnt exist anymore nor does the website
+> SimplePlanes - airplane creation game
+> SimpleRockets (1/2) - mobile space-rocket creation game
+> Juno: New Origins - NASA kinda of spaceship builder with visual programming w/ career mode
+> Spore - life simulation game, from bacteria to space colony; does have vehicle creation but its not much
+> War Robots - mobile hot garbage (imo, no offence)
