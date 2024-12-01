@@ -1,5 +1,5 @@
 ### General idea
-Robocraft, the predecessor of all roboclones, usually relied on futuristic Synth/Electronic music with angelic choirs for an ethereal soundtrack.
+Robocraft, the predecessor of all roboclones (excluding Nuts & Bolts, but Robocraft perfected the genre after them), but, usually relied on futuristic Synth/Electronic music with angelic choirs for an ethereal soundtrack.
 There was some electric guitar to spice up the tempo, turning it to SynthRock, which worked really well.
 This speedup was only used in BA to kick everyone awake on the ensuing chaos in the middle.
 

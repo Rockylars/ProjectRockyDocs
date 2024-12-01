@@ -12,6 +12,10 @@ needs to be fun and exciting.
 
 =====
 
+> 6DOF
+Six degrees of freedom, basically a space game or a game like DRONE, usually not that enjoyed as it leads to bad control
+and enemies that can now come from angles you simply can't see or keep track of.
+
 > blink
 A module in RC that allowed you to teleport.
 
