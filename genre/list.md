@@ -1,20 +1,22 @@
 Here's a list of similar games in the genre, with the satisfying criteria listed above them.
 This list will go on from most comparable to least comparable by genre, the games themselves are sorted alphabetically.
-Mecha games are kinda left out, I know building a robot/gundam allows you to pick parts too and walk around, but it just lacks in every other part.
+Mecha games are kinda left out, I know building a robot/gundam allows you to pick parts too and walk around, but it just
+lacks in every other part.
 
 ---
 
-> Cube/grid building for vehicles
+> Cube/grid building for vehicles, most important
 
-> Multiplayer/singleplayer combat through added weapons
+> Multiplayer/singleplayer combat through added weapons, though this can be absent
 
-> Lots of movement options such as wheels, wings, thrusters and copterblades.
+> Lots of movement options such as wheels, wings, thrusters and copterblades, though these usually lack for the space games.
 
-### 3D | No space aspects
+### 3D | Though usually not 6DOF
 
 | Name                                                                                                                    | Originally                                                                                                                           | Obtainable | Actively played | Actively worked on                    | Extra                                                                                                                                                                                          | 
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Airmen](https://store.steampowered.com/app/647740/Airmen/)                                                             | [Robocrash](https://drive.google.com/drive/folders/0B6aL_wzh5tqNbXhjTExmSTdpXzA?resourcekey=0-PXQCq2a78iBPu7_dOgizjw&usp=drive_link) | Yes        | No              | No                                    |                                                                                                                                                                                                |
+| [Avorion]                                                                                                               |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
 | [Astracraft](https://www.astracraftgame.com/en/)                                                                        | [Project: Rover Rage](https://www.youtube.com/watch?v=Ju3pD5M1NCM)                                                                   | Yes        | Don't know      | Don't know                            |                                                                                                                                                                                                |
 | [Banjo-Kazooie: Nuts & Bolts](https://en.wikipedia.org/wiki/Banjo-Kazooie:_Nuts_%26_Bolts)                              |                                                                                                                                      | Somewhat   | No              | No                                    |                                                                                                                                                                                                |
 | [Besiege](https://store.steampowered.com/app/346010/Besiege/)                                                           |                                                                                                                                      | Yes        | Yes             | Yes                                   |                                                                                                                                                                                                |
@@ -27,6 +29,10 @@ Mecha games are kinda left out, I know building a robot/gundam allows you to pic
 | [Dieselpunk Wars](https://store.steampowered.com/app/952240/Dieselpunk_Wars/)                                           |                                                                                                                                      | Yes        | No              | No                                    | [Kickstarter](https://www.kickstarter.com/projects/playway/dieselpunk-wars)                                                                                                                    |
 | [Diode Arena](https://store.steampowered.com/app/2022890/Diode_Arena/)                                                  |                                                                                                                                      | Yes        | No              | Somewhat                              | [Site](https://www.negotiatorstudios.com/diodearena/)                                                                                                                                          |
 | [D.R.O.N.E.](https://store.steampowered.com/app/987020/DRONE_The_Game/)                                                 |                                                                                                                                      | Yes        | No              | Sold to [Earth 2](https://earth2.io/) | [Site](https://dronethegame.com/)                                                                                                                                                              |
+| [Dual Universe]                                                                                                         |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [Empyrion]                                                                                                              |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [From the Depths]                                                                                                       |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [Galactic Junk League](https://store.steampowered.com/app/562590/Galactic_Junk_League/)                                 |                                                                                                                                      | No         | No              | No                                    | [Dead site](https://galacticjunkleague.com/)                                                                                                                                                   |
 | [GameCraft](https://store.steampowered.com/app/1078000/Gamecraft/)                                                      | [Robocraft X](https://store.steampowered.com/news/app/301520/view/2882822940996004396)                                               | No         | No              | No                                    |                                                                                                                                                                                                |
 | [GearBlocks](https://store.steampowered.com/app/1305080/GearBlocks/)                                                    |                                                                                                                                      | Yes        | Somewhat        | Yes                                   |                                                                                                                                                                                                |
 | [Instruments of Destruction](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/)                    |                                                                                                                                      | Yes        | No              | Yes                                   |                                                                                                                                                                                                |
@@ -35,11 +41,13 @@ Mecha games are kinda left out, I know building a robot/gundam allows you to pic
 | [Lego Racers 2](https://en.wikipedia.org/wiki/LEGO_Racers_2)                                                            |                                                                                                                                      | Somewhat   | No              | No                                    |                                                                                                                                                                                                |
 | [MachineCraft](https://store.steampowered.com/app/397100/MachineCraft/)                                                 |                                                                                                                                      | Yes        | No              | No                                    |                                                                                                                                                                                                |
 | [Planet Explorers](https://store.steampowered.com/app/237870/Planet_Explorers/)                                         |                                                                                                                                      | Yes        | No              | No                                    | [Kickstarter](https://www.kickstarter.com/projects/mtae/planet-explorers/description)                                                                                                          |
-| [Plasma \| Your Engineering Playground](https://store.steampowered.com/app/1409160/Plasma/)                             |                                                                                                                                      | Yes        | No              | No                                    | [Site](https://plasma.game/)                                                                                                                                                                   |
+| [Planet Nomads]                                                                                                         |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [Plasma](https://store.steampowered.com/app/1409160/Plasma/)                                                            |                                                                                                                                      | Yes        | No              | No                                    | [Site](https://plasma.game/)                                                                                                                                                                   |
 | [Procelio](https://proceliogame.com/)                                                                                   |                                                                                                                                      | Yes        | No              | Somewhat                              | Made by the teams of [Project Prime](https://www.youtube.com/@amimox1950/videos) and [Carbon6](https://gamejolt.com/games/carbon6-a-voxel-based-vehicular-shooter/150616) combined.            |
 | [Project Kekoraptor](https://www.youtube.com/@ezowned5540/videos)                                                       |                                                                                                                                      | Yes        | No              | The dude died                         |                                                                                                                                                                                                |
 | [Project Prime](https://www.youtube.com/@amimox1950/videos)                                                             |                                                                                                                                      | Yes        | No              | No                                    | [Discord](https://discord.com/invite/013E3ZigaDkocdGIA)                                                                                                                                        |
 | [Project: Rover Rage](https://www.youtube.com/watch?v=Ju3pD5M1NCM)                                                      |                                                                                                                                      | Don't know | No              | No                                    | [Old dead site](https://www.roverrage.com/), [old space ship video](https://www.facebook.com/AstracraftGame/videos/222641565320207/), [old video](https://www.youtube.com/watch?v=mw3Q3A-vemk) |
+| [Rift Frigate]                                                                                                          |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
 | [Robocraft](https://store.steampowered.com/app/301520/Robocraft/)                                                       | [Qbotics](https://www.youtube.com/watch?v=oCQscUHN_vM)                                                                               | Yes        | No              | No                                    | [Site](https://robocraftgame.com/)                                                                                                                                                             |
 | [Robocraft 2](https://store.steampowered.com/app/1991140/Robocraft_2/)                                                  | [Techblox](https://freejam.itch.io/techblox)                                                                                         | No         | No              | Yes                                   | [Site](https://www.robocraft2.com/)                                                                                                                                                            |
 | [Robocraft Infinity](https://waytoomany.games/2018/04/15/review-robocraft-infinity-xbox-one/)                           | [Robocraft](https://store.steampowered.com/app/301520/Robocraft/)                                                                    | Yes        | No              | No                                    |                                                                                                                                                                                                |
@@ -49,6 +57,10 @@ Mecha games are kinda left out, I know building a robot/gundam allows you to pic
 | [Scraps](https://store.steampowered.com/app/350150/Scraps_Modular_Vehicle_Combat/)                                      |                                                                                                                                      | No         | No              | No                                    | [Dead site](https://web.archive.org/web/20220510164724/http://www.scrapsgame.com/), the site started in 2013 but it seems the project was underway longer                                      |
 | [Screw Drivers](https://store.steampowered.com/app/1279510/Screw_Drivers/)                                              |                                                                                                                                      | Yes        | Somewhat        | Yes                                   |                                                                                                                                                                                                |
 | [Sea of Craft](https://store.steampowered.com/app/990920/Sea_of_Craft/)                                                 |                                                                                                                                      | Yes        | No              | No                                    |                                                                                                                                                                                                |
+| [Space Engineers](https://store.steampowered.com/app/244850/Space_Engineers/)                                           |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [Starbase]                                                                                                              |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [StarMade]                                                                                                              |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
+| [Starship EVO]                                                                                                          |                                                                                                                                      |            |                 |                                       |                                                                                                                                                                                                |
 | [Steamcraft](https://store.steampowered.com/app/735660/Steamcraft/)                                                     |                                                                                                                                      | No         | No              | No                                    |                                                                                                                                                                                                |
 | [StormWorks](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/)                                    |                                                                                                                                      | Yes        | Yes             | Yes                                   | [Website](https://geometa.co.uk/stormworks)                                                                                                                                                    |
 | [Techblox](https://www.youtube.com/watch?v=QusRYK18n5Q)                                                                 | [GameCraft](https://store.steampowered.com/app/1078000/Gamecraft/)                                                                   | No         | No              | No                                    | [itch.io](https://freejam.itch.io/techblox)                                                                                                                                                    |
@@ -59,62 +71,40 @@ Mecha games are kinda left out, I know building a robot/gundam allows you to pic
 | [Qbotics](https://www.youtube.com/watch?v=oCQscUHN_vM)                                                                  |                                                                                                                                      | No         | No              | No                                    | [Concept](https://workingnotworking.com/projects/99026-disney-qbotics)                                                                                                                         |
 | [War Builder League](https://store.steampowered.com/app/999270/War_Builder_League/)                                     |                                                                                                                                      | Yes        | No              | No                                    | [Dead site](https://warbuilder.org/)                                                                                                                                                           |
 
-### 3D | Planetary and space focused
+### 2D | Top-down view
 
-- Dual Universe
-- Empyrion
-- From the Depths
-- Planet Nomads
-- Space Engineers
-- Starbase
-- StarMade
-- Starship EVO
+| Name                                                                                                  | Originally                                                                | Obtainable | Actively played | Actively worked on | Extra                                                                           | 
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------|-----------------|--------------------|---------------------------------------------------------------------------------|
+| [Captain Forever Trilogy](https://store.steampowered.com/app/758930/Captain_Forever_Trilogy/)         | [The three separate games](https://en.wikipedia.org/wiki/Captain_Forever) | Yes        | No              | No                 | [Dev's site](https://www.farbs.org/), [Web version](https://captainforever.io/) |
+| [Cosmoteer](https://store.steampowered.com/app/799600/Cosmoteer_Starship_Architect__Commander/)       |                                                                           | Yes        | Yes             | Yes                | [Website](https://cosmoteer.net/)                                               |
+| [Istrolid](https://store.steampowered.com/app/449140/Istrolid/)                                       |                                                                           | Yes        | No              | No                 | [Website](https://www.istrolid.com/)                                            |
+| [Nimbatus](https://store.steampowered.com/app/383840/Nimbatus__The_Space_Drone_Constructor/)          |                                                                           | Yes        | No              | No                 | [Website](https://www.nimbatus.com/)                                            |
+| [Space Arena](https://play.google.com/store/apps/details?id=com.herocraft.game.free.spaceshipbattles) |                                                                           | Yes        | Don't know      | Don't know         | [Website](https://space-arena.com/)                                             |
+| [SpaceCraft Brawl](https://store.steampowered.com/app/1236770/SpaceCraft_Brawl/)                      |                                                                           | Yes        | No              | Yes                |                                                                                 |
+| [StarShip Constructor](https://store.steampowered.com/app/569770/StarShip_Constructor/)               |                                                                           | Yes        | No              | No                 |                                                                                 |
 
-### 3D | Spaceship only
+### 2D | Side view
 
-- Avorion
-- Galactic Junk League
-- Rift Frigate
 
-### 2D | Top-down view | No space aspects
-
-- ?
-
-### 2D | Top-down view | Planetary and space focused
-
-- ?
-
-### 2D | Top-down view | Spaceship only
-
-- Captain Forever Series
-- Cosmoteer
-- Istrolid
-- Nimbatus
-- Space Arena: Construct and Fight!
-- SpaceCraft Brawl
-- Starship Constructor
-
-### 2D | Side view | No space aspects
-
-- Airships: Conquer the Skies
-- Bad Piggies
-- Dream Car Racing (1/2/EVO)
-- Rovercraft (1/2)
-- Steamlands
-
-### 2D | Side view | Planetary and space focused
-
-- ?
-
-### 2D | Side view | Spaceship only
-
-- ?
+| Name                          | Originally | Obtainable | Actively played | Actively worked on | Extra | 
+|-------------------------------|------------|------------|-----------------|--------------------|-------|
+| [Airships: Conquer the Skies] |            |            |                 |                    |       |
+| [Bad Piggies]                 |            |            |                 |                    |       |
+| [Dream Car Racing 1]          |            |            |                 |                    |       |
+| [Dream Car Racing 2]          |            |            |                 |                    |       |
+| [Dream Car Racing EVO]        |            |            |                 |                    |       |
+| [Rovercraft 1]                |            |            |                 |                    |       |
+| [Rovercraft 2]                |            |            |                 |                    |       |
+| [Steamlands]                  |            |            |                 |                    |       |
 
 ---
 
-> Same as the above but without the cube grid, building is just done in a in a non-unit grid like through pipes and plates.
+> Same as the above but without the cube grid, building is just done in a non-unit grid like through pipes and plates.
 
-### 3D | No space aspects
+### 3D | Though usually not 6DOF
+
+| Name                          | Originally | Obtainable | Actively played | Actively worked on | Extra | 
+|-------------------------------|------------|------------|-----------------|--------------------|-------|
 
 - Automation - The Car Company Tycoon Game
 - Dream Car Building (seems to just be a port of "Dream Car Racing 3D")
@@ -122,36 +112,25 @@ Mecha games are kinda left out, I know building a robot/gundam allows you to pic
 - Homebrew - Patent Unknown
 - Main Assembly
 - M.A.V. - Modular Assault Vehicle
-- REM (the REM project)
+- REM Project
+- REM Project (6DOF version)
 - Robot Arena (1/2/3)
 
--- 3D | Planetary and space focused
-?
+### 2D | Top-down view
 
--- 3D | Spaceship only
-?
-
--- 2D | Top-down view | No space aspects
-?
-
--- 2D | Top-down view | Planetary and space focused
-?
-
--- 2D | Top-down view | Spaceship only
+| Name                          | Originally | Obtainable | Actively played | Actively worked on | Extra | 
+|-------------------------------|------------|------------|-----------------|--------------------|-------|
 
 - Reassembly
 - Gimbal
 
--- 2D | Side view | No space aspects
+### 2D | Side view
+
+| Name                          | Originally | Obtainable | Actively played | Actively worked on | Extra | 
+|-------------------------------|------------|------------|-----------------|--------------------|-------|
 
 - Dream Car Racing (1/2/EVO)
 - IncrediBots (1/2/3)
-
--- 2D | Side view | Planetary and space focused
-?
-
--- 2D | Side view | Spaceship only
-?
 
 ---
 
@@ -385,3 +364,7 @@ detailed [Steam search](https://store.steampowered.com/search/?sort_by=Released_
   almost impossible to obtain as nobody is playing that type. It really will just be a "why even add this, it just makes
   it frustrating"
   case. So don't fucking add a crafting system.
+
+### Things from multiple games
+- Do not make guns that are 1 block or 2 block in size, always start with bigger weapons as the tiny ones are impossible to damage scale and look rather unpleasant.
+- Do not try to mess with giant weapons, they are a pain to put on and often either misplaced or misused leading to many early deaths.

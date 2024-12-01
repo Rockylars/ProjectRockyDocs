@@ -6,4 +6,4 @@ Drone itself suffered more from gameplay design issues, a 6DOF game is really di
 It also suffers from being difficult in fast paced battles and environments being a hassle rather than a tactic.
 Map mastery itself is just entirely void in the custom made maps.
 
-The cube textures and the glow spread perfectly present a futuristic realistic style.
+The cube textures and the glow spread perfectly present a futuristic realistic style in the light of all things negative.
