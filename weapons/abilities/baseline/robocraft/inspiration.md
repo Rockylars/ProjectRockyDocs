@@ -1,5 +1,10 @@
 Robocraft started off with a limit of 1500 CPU you could place, where this was mostly divided into guns, thrusters, radar items, armor and movement.
 This changed a bit when Megaguns were added, making you able to go glass cannon by sacrificing a ton of CPU for just 2 gigantic guns, or 1 big one and a few smaller.
+After the CPU ranges were abolished, they made it so you could use multiple guns, as well as an energy system.
+This energy system came in two forms, such as the one where higher CPU got less energy, meaning you had to rely on less armor but more firepower or more armor but less firepower.
+There was also the one where higher CPU got more energy, though the previous allowed for self balance, this one worked better for a more progressive type of gameplay.
+
+
 Another introduction of using CPU in an interesting way were the modules.
 Modules allowed you to get an ability such as teleporting (blink), shield placement (dsm), invisibility (cloak), mass radar detection (windowmaker) and stunning (emp).
 They were costly, averaging around 275 CPU a piece, they were greatly powerful but limited in such.
