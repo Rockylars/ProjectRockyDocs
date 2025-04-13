@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>Inventory Preview</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+    </head>
+    <style>
+        * {
+            all: initial;
+            box-sizing: border-box;
+            font-family: sans-serif;
+            display: block;
+        }
+        style, title, script {
+            display: none;
+        }
+        html {
+            width: 100%;
+            height: 100%;
+            background-color: lightblue;
+        }
+        body {
+            width: 100%;
+            height: 100%;
+            background-color: cornflowerblue;
+        }
+        #ui {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            background-color: blueviolet;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        #inventory {
+            background-color: navy;
+            min-width: 70%;
+            max-width: 1100px;
+            min-height: 750px;
+            max-height: 900px;
+            margin: auto;
+            display: flex;
+            overflow: hidden;
+        }
+        #sidebar {
+            padding: 10px;
+            background-color: rebeccapurple;
+            width: 150px;
+        }
+        #variants > div {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        #variants > div > button {
+            width: 15px;
+            text-align: center;
+        }
+        #machinery {
+            margin-top: 5px;
+        }
+        #types > div > p {
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+        #types button {
+            width: 100%;
+            height: 30px;
+            text-align: center;
+            background-color: darkgrey;
+        }
+        #items {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            overflow-y: visible;
+            padding: 10px;
+            gap: 10px;
+        }
+        #items > div {
+            width: 100px;
+            height: 100px;
+        }
+        #items > div > img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+    <script>
+        "use strict";
+        // region variables
+        let firstLoad = true;
+        let taskAwait = 0;
+        let itemMap = [];
+        let currentCategory = 'bulk';
+        let currentGeneralSize = 'medium';
+        let currentHullShape = 'plain';
+        let currentHullSize = 'normal';
+        const colors = {
+            light: 'pink',
+            medium: 'red',
+            heavy: 'darkred',
+            special: 'purple',
+        }
+        // endregion
+        // region tasks
+        window.addEventListener(
+            'DOMContentLoaded',
+            /**
+             * @this Window
+             * @param {Event} event
+             * @return void
+             */
+            (event) => {
+                const runningTask = setInterval(function () {
+                    taskAwait++;
+                    if (taskAwait > 10000) {
+                        clearInterval(runningTask);
+                        alert("Task took too long to start");
+                        return;
+                    }
+                    if (itemMap.length === 0) {
+                        return;
+                    }
+                    console.log('waited ' + taskAwait + 'ms');
+                    try {
+                        setStateSelected(true);
+                    } finally {
+                        clearInterval(runningTask);
+                    }
+                });
+            },
+            {once: true}
+        );
+        fetch("item_map.json")
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                itemMap = data;
+            })
+            .catch(function (error) {
+                alert("Could not open JSON file");
+                console.log(error);
+            });
+        // endregion
+        //region listeners
+        /**
+         * @param {PointerEvent} event
+         * @param {HTMLButtonElement} element
+         */
+        function changeItems(event, element) {
+            let isHullCategory = true;
+            switch (element.parentElement.id) {
+                case "general-sizes":
+                    currentGeneralSize = element.id;
+                    break;
+                case "hull-shapes":
+                    currentHullShape = element.id;
+                    break;
+                case "hull-sizes":
+                    currentHullSize = element.id;
+                    break;
+                case "hull":
+                    currentCategory = element.id;
+                case "machinery":
+                    currentCategory = element.id;
+                    isHullCategory = false;
+                    break;
+                default:
+                    console.log(`Can not handle ${element.parentElement.id} switch`);
+                    break;
+            }
+            setStateSelected(isHullCategory);
+        }
+        // endregion
+        // region states
+        function setStateInitial() {
+            if (firstLoad) {
+                firstLoad = false;
+                return;
+            }
+            const generalSizeButtons = document.getElementById("general-sizes").children;
+            for (let i = 0; i < generalSizeButtons.length; i++) {
+                generalSizeButtons[i].style.color = 'initial';
+            }
+            const hullShapeButtons = document.getElementById("hull-shapes").children;
+            for (let i = 0; i < hullShapeButtons.length; i++) {
+                hullShapeButtons[i].style.color = 'initial';
+            }
+            const hullSizeButtons = document.getElementById("hull-sizes").children;
+            for (let i = 0; i < hullSizeButtons.length; i++) {
+                hullSizeButtons[i].style.color = 'initial';
+            }
+            document.getElementById('items').replaceChildren();
+            document.getElementById('alternatives').replaceChildren();
+        }
+
+        /**
+         * @param {Boolean} isHullCategory
+         */
+        function setStateSelected(isHullCategory) {
+            setStateInitial();
+            document.getElementById(currentGeneralSize).style.color = 'white';
+            let items;
+            if (isHullCategory) {
+                document.getElementById(currentHullShape).style.color = 'white';
+                document.getElementById(currentHullSize).style.color = 'white';
+                console.log(itemMap);
+                //TODO: Once stats are in, use currentGeneralSize as well.
+                if ((items = itemMap[currentCategory]?.[currentHullShape]?.[currentHullSize]) === undefined) {
+                    throw 'Missing items for ' + currentCategory + ' ' + currentHullShape  + ' ' + currentHullSize;
+                }
+            } else {
+                document.getElementById('slope').style.color = 'lightgrey';
+                document.getElementById('plain').style.color = 'lightgrey';
+                document.getElementById('hill').style.color = 'lightgrey';
+                document.getElementById('trailmix').style.color = 'lightgrey';
+                document.getElementById('small').style.color = 'lightgrey';
+                document.getElementById('normal').style.color = 'lightgrey';
+                document.getElementById('tall').style.color = 'lightgrey';
+                document.getElementById('wide').style.color = 'lightgrey';
+                if ((items = itemMap[currentCategory]?.[currentGeneralSize]) === undefined) {
+                    throw 'Missing items for ' + currentCategory + ' ' + currentGeneralSize;
+                }
+            }
+            const itemsContainer = document.getElementById('items');
+            for (let i = 0; i < items.length; i++) {
+                const item = items[i];
+                const itemElement = document.createElement('div');
+                itemElement.innerHTML = `<img src="nothing.png" alt="${item['name']}">`;
+                itemsContainer.appendChild(itemElement);
+            }
+        }
+        // endregion
+    </script>
+    <body>
+        <div id="ui">
+            <div id="inventory">
+                <div id="sidebar">
+                    <div id="options">
+                        <div id="variants">
+                            <div id="general-sizes">
+                                <button id="light" onclick="changeItems(arguments[0], this)" title="Light">L</button>
+                                <button id="medium" onclick="changeItems(arguments[0], this)" title="Medium">M</button>
+                                <button id="heavy" onclick="changeItems(arguments[0], this)" title="Heavy">H</button>
+                                <button id="special" onclick="changeItems(arguments[0], this)" disabled title="Special">S</button>
+                            </div>
+                            <div id="hull-shapes">
+                                <button id="slope" onclick="changeItems(arguments[0], this)" title="Slope">S</button>
+                                <button id="plain" onclick="changeItems(arguments[0], this)" title="Plain">P</button>
+                                <button id="hill" onclick="changeItems(arguments[0], this)" title="Hill">H</button>
+                                <button id="trailmix" onclick="changeItems(arguments[0], this)" title="Trailmix">T</button>
+                            </div>
+                            <div id="hull-sizes">
+                                <button id="small" onclick="changeItems(arguments[0], this)" title="Small">S</button>
+                                <button id="normal" onclick="changeItems(arguments[0], this)" title="Normal">N</button>
+                                <button id="tall" onclick="changeItems(arguments[0], this)" title="Tall">T</button>
+                                <button id="wide" onclick="changeItems(arguments[0], this)" title="Wide">W</button>
+                            </div>
+                        </div>
+                        <div id="types">
+                            <div id="hull">
+                                <div>Hull</div>
+                                <button id="bulk" onclick="changeItems(arguments[0], this)">Bulk</button>
+                                <button id="strake1" onclick="changeItems(arguments[0], this)">Strake 1</button>
+                                <button id="strake2" onclick="changeItems(arguments[0], this)">Strake 2</button>
+                                <button id="frame" onclick="changeItems(arguments[0], this)">Frame 1</button>
+                                <button id="cosmetic" onclick="changeItems(arguments[0], this)">Cosmetic 2</button>
+                            </div>
+                            <div id="machinery">
+                                <div>Machinery</div>
+                                <button id="weapons" onclick="changeItems(arguments[0], this)">Weapons</button>
+                                <button id="movement" onclick="changeItems(arguments[0], this)">Movement</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="info">
+                        <!-- Autogenerated -->
+                    </div>
+                </div>
+                <div id="items">
+                    <!-- Autogenerated -->
+                </div>
+                <div id="alternatives">
+                    <!-- Autogenerated -->
+                </div>
+            </div>
+            <div id="explanation">
+                Preview of the inventory using a dynamic approach for the amount of shapes available
+            </div>
+        </div>
+    </body>
+</html>

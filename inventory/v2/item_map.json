@@ -1,0 +1,20 @@
+{
+  "bulk": {
+    "slope": {
+      "small": [
+
+      ]
+    },
+    "plain": {
+      "small": [
+
+      ],
+      "normal": [
+        {
+          "name": "cube",
+          "hi chat": true
+        }
+      ]
+    }
+  }
+}
