@@ -1,20 +1,78 @@
 {
-  "bulk": {
-    "slope": {
-      "small": [
-
-      ]
-    },
-    "plain": {
-      "small": [
-
-      ],
-      "normal": [
-        {
-          "name": "cube",
-          "hi chat": true
+  "hull": {
+    "bulk": {
+      "slope": {
+        "small": [
+        ]
+      },
+      "plain": {
+        "small": [
+        ],
+        "normal": [
+          {
+            "name": "cube",
+            "hi chat": true
+          }
+        ]
+      }
+    }
+  },
+  "machinery": {
+    "movement": {
+      "wheels": {
+        "variants": {
+          "base": {"description": "Connected to the side of a cube"},
+          "raised": {"description": "Connected to the diagonal side of an edge (long edge of the edge shape laying diagonally vertical), but made for normally oriented cars"},
+          "vertical diagonal": {"description": "Rotated 45 degrees of the base variant"},
+          "horizontal diagonal": {"description": "Connected ot the diagonal side of an edge (long edge of the edge shape laying diagonally horizontal, made for cars that go forwards and left or forwards and right"},
+          "tilted diagonal": {"description": "Connected to the diagonal side of an edge (long edge of the edge shape laying diagonally vertical), different from raised"},
+          "full diagonal": {"description": "Connected to the diagonal triangular side of a tetra/inner, to support vehicles that move in all 3 diagonal ways, though i most likely will just make this an alternate of horizontal diagonal"},
         }
-      ]
+      },
+      "steering wheels": {
+
+      },
+      "supported wheels": {
+
+      },
+      "tank tracks": {
+        "light": {},
+        "medium": {},
+        "heavy": {}
+      },
+      "propters": {
+
+      },
+      "aerofoils": {
+
+      },
+      "sprinters": {
+
+      },
+      "crawlers": {
+
+      },
+      "skis": {
+
+      },
+      "repellor pads": {
+
+      },
+      "turbofans": {
+
+      },
+      "led turbofans (front bound turbofans)": {
+
+      },
+      "pulsejets (boosters that act on a double tap)": {
+
+      },
+      "led pulsejets (front bound pulsejets)": {
+
+      },
+    },
+    "weaponry": {
+
     }
   }
 }
